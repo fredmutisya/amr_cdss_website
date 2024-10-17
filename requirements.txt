@@ -28,3 +28,4 @@ langcodes==3.4.0
 langsmith==0.1.104
 bio==1.7.1
 biopython==1.84
+python-dotenv==1.0.1
