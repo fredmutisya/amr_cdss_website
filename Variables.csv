@@ -1,0 +1,99 @@
+Antibiotics,Antibiotics_prev,Country,Phenotype,Source,Speciality,Infection_Diagnosis
+Ciprofloxacin,Ampicillin,United States,ESBL,Urine,Medicine General,Genitourinary Infection
+Amikacin,Amikacin,Argentina,(BL Neg),Abdominal Fluid,Clinic / Office,Abdominal Infection
+Amoxycillin.clavulanate,Amoxycillin.clavulanate,Australia,(BL Pos),Abscess,Emergency Room,Abscess Infection
+Ampicillin,Ampicillin,Austria,MRSA,Appendix,General Unspecified ICU,Appendicitis
+Ampicillin.sulbactam,Ampicillin.sulbactam,Belgium,MSSA,Ascetic Fluid,Medicine General,Bacteremia/Sepsis
+Azithromycin,Azithromycin,Brazil,,Aspirate,Medicine ICU,Biliary Tract Infection
+Aztreonam,Aztreonam,Bulgaria,,Bile,None Given,Bone Infection
+Cefepime,Cefepime,Cameroon,,Bladder,Nursing Home / Rehab,Burn Infection
+Cefixime,Cefixime,Canada,,Blood,Other,Cholecystitis
+Cefoxitin,Cefoxitin,Chile,,Blood Vessels,Pediatric General,Circulatory Infection
+Ceftaroline,Ceftaroline,China,,Bodily Fluids,Pediatric ICU,Device-Related Infection
+Ceftazidime,Ceftazidime,Colombia,,Bone,Surgery General,Diverticulitis
+Ceftolozane.tazobactam,Ceftolozane.tazobactam,Costa Rica,,Bone Marrow,Surgery ICU,Ear Infection
+Ceftriaxone,Ceftriaxone,Croatia,,Brain,,Exudative Infection
+Ciprofloxacin,Ciprofloxacin,Czech Republic,,Bronchiole,,Gastric Infection
+Clarithromycin,Clarithromycin,Denmark,,Bronchoalveolar lavage,,Gastrointestinal Infection
+Clindamycin,Clindamycin,Dominican Republic,,Bronchus,,Genitourinary Infection
+Colistin,Colistin,Egypt,,Burn,,Gynecological Infection
+Daptomycin,Daptomycin,El Salvador,,Carbuncle,,Hepatic Infection
+Doripenem,Doripenem,Estonia,,Catheters,,Intestinal Infection
+Ertapenem,Ertapenem,Finland,,Cellulitis,,Joint Infection
+Erythromycin,Erythromycin,France,,Cervix,,Kidney Infection
+Gentamicin,Gentamicin,Germany,,Circulatory: Other,,Muscle Infection
+Imipenem,Imipenem,Ghana,,CNS: Other,,Ocular Infection
+Levofloxacin,Levofloxacin,Greece,,Colon,,Oral Infection
+Linezolid,Linezolid,Guatemala,,CSF,,Osteomyelitis
+Meropenem,Meropenem,Honduras,,Decubitus,,Pancreatic Infection
+Meropenem.vaborbactam,Meropenem.vaborbactam,Hong Kong,,Diverticulum,,Peritonitis
+Metronidazole,Metronidazole,Hungary,,Drains,,Pharyngitis
+Minocycline,Minocycline,India,,Ear,,Pleural Infection
+Moxifloxacin,Moxifloxacin,Indonesia,,Endotracheal aspirate,,Pressure Ulcer Infection
+Oxacillin,Oxacillin,Ireland,,Esophagus,,Prostate Infection
+Penicillin,Penicillin,Israel,,Exudate,,Respiratory Infection
+Piperacillin.tazobactam,Piperacillin.tazobactam,Italy,,Eye,,Respiratory or Abscess Infection
+Quinupristin.dalfopristin,Quinupristin.dalfopristin,Ivory Coast,,Fallopian Tubes,,Skin Infection
+Teicoplanin,Teicoplanin,Jamaica,,Feces/Stool,,Systemic Infection
+Tetracycline,Tetracycline,Japan,,Furuncle,,Tissue Infection
+Tigecycline,Tigecycline,Jordan,,Gall Bladder,,Ulcer Infection
+Vancomycin,Vancomycin,Kenya,,Gastric Abscess,,Unknown
+,,"Korea, South",,Genitourinary: Other,,Urinary Tract Infection
+,,Kuwait,,Hair,,Wound Infection
+,,Latvia,,Head,,
+,,Lebanon,,Heart,,
+,,Lithuania,,HEENT: Other,,
+,,Malawi,,Ileum,,
+,,Malaysia,,Impetiginous lesions,,
+,,Mauritius,,Instruments: Other,,
+,,Mexico,,Integumentary (Skin Nail Hair),,
+,,Morocco,,Intestinal: Other,,
+,,Namibia,,Kidney,,
+,,Netherlands,,Liver,,
+,,New Zealand,,Lungs,,
+,,Nicaragua,,Lymph Nodes,,
+,,Nigeria,,Lymphatic Fluid,,
+,,Norway,,Mouth,,
+,,Oman,,Muscle,,
+,,Pakistan,,Nails,,
+,,Panama,,Nasopharyngeal Aspirate,,
+,,Philippines,,Nasotracheal Aspirate,,
+,,Poland,,None Given,,
+,,Portugal,,Nose,,
+,,Puerto Rico,,Ovary,,
+,,Qatar,,Pancreas,,
+,,Romania,,Paracentesis Fluid,,
+,,Russia,,Penis,,
+,,Saudi Arabia,,Peripheral Nerves,,
+,,Serbia,,Peritoneal Fluid,,
+,,Singapore,,Placenta,,
+,,Slovak Republic,,Pleural Fluid,,
+,,Slovenia,,Prostate,,
+,,South Africa,,Pyoderma Lesion,,
+,,Spain,,Rectum,,
+,,Sweden,,Respiratory: Other,,
+,,Switzerland,,Respiratory: Sinuses,,
+,,Taiwan,,Skeletal: Other,,
+,,Thailand,,Skin,,
+,,Tunisia,,Skin: Other,,
+,,Turkey,,Spinal Cord,,
+,,Uganda,,Spleen,,
+,,Ukraine,,Sputum,,
+,,United Kingdom,,Stomach,,
+,,United States,,Synovial Fluid,,
+,,Venezuela,,Testis,,
+,,Vietnam,,Thoracentesis Fluid,,
+,,,,Throat,,
+,,,,Thymus,,
+,,,,Tissue Fluid,,
+,,,,Trachea,,
+,,,,Transtracheal Aspirate,,
+,,,,Ulcer,,
+,,,,Ureter,,
+,,,,Urethra,,
+,,,,Urine,,
+,,,,Uterus,,
+,,,,Vagina,,
+,,,,Vas Deferens,,
+,,,,Vomit,,
+,,,,Wound,,
