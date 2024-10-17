@@ -29,3 +29,4 @@ langsmith==0.1.104
 bio==1.7.1
 biopython==1.84
 python-dotenv==1.0.1
+faiss-cpu==1.8.0.post1
